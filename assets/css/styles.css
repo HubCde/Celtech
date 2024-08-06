@@ -1,0 +1,29 @@
+/*============= fonts =============*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+/*============= Base =============*/
+
+html{
+    font-size: 10px;
+}
+
+*{
+    font-family: sans-serif;
+}
+
+/*============= Variables - CSS =============*/
+
+:root{
+    --first-color: #ffffff;
+    --second-color: #6a7fdb;
+    --secondary-color: #452682;
+    --box-color-one: #e9e0e0;
+    --background-button: #697edb;
+    --background-button-carshop: #7ed957;
+    --text-color-one: black;
+    --text-color-two: #47505b;
+    --text-color-three: #ff0000;
+    --text-color-four: #5e17eb;
+    --text-color-five: #452682;
+}
